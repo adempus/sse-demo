@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/main.tsx","./src/setupTests.ts","./src/types.ts","./src/useJobs.ts","./src/vite-env.d.ts","./src/components/JobRow.test.tsx","./src/components/JobRow.tsx","./src/components/StateBadge.test.tsx","./src/components/StateBadge.tsx"],"version":"5.9.3"}
